@@ -1,0 +1,2 @@
+这是一个js库socket.io.js 的python实现，用来连接flask-socketio
+需要多线程监听服务器推送
